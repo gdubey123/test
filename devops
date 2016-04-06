@@ -1,2 +1,7 @@
 git file test
+<<<<<<< HEAD
 git second chnage
+=======
+test2
+gaurav
+>>>>>>> 7b0e0108ccde381b5690f9c205c30d8e323f263e
